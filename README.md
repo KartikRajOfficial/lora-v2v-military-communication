@@ -183,8 +183,8 @@ Possible improvements include:
 
 | Name | Registration Number |
 |-----|-----|
-| MD Umar Faisal | 23BCE0079 |
 | Kartik Raj | 23BCE0274 |
+| MD Umar Faisal | 23BCE0079 |
 
 ---
 
